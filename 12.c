@@ -40,3 +40,5 @@ available=0;
 printf("\n Number of Page Faults: %d",PFault);
 getch();
 }
+
+
